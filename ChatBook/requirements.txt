@@ -1,0 +1,6 @@
+python-dotenv
+gradio
+langchain
+langchain-community
+langchain-openai
+langdetect==1.0.9
