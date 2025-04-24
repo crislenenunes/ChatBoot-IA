@@ -1,4 +1,4 @@
-# 🤖 Chatbots Educacionais com LLMs
+# Chatbots Educacionais com LLMs
 
 Quatro assistentes inteligentes construídos com LLMs e interface Gradio para fins educacionais, explorando desde interações generalistas até especializações em literatura, ensino de Python e orientação acadêmica.
 
