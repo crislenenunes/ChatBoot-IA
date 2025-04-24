@@ -10,10 +10,10 @@ Quatro assistentes inteligentes construídos com LLMs e interface Gradio para fi
 Um chatbot de uso geral com diferencial multilíngue. Reconhece a linguagem do usuário e responde de forma contextualizada, utilizando:
 
 - **OpenRouter API Key**
-- **LLM: DeepSeek**
-- **Temperatura ajustável:** entre 0.3 e 0.7 para controlar criatividade
-- **Tokens limitados para controle de contexto**
-- **Interface Gradio (modelo soft com background clean)**
+- LLM: DeepSeek
+- Temperatura ajustável:** entre 0.3 e 0.7 para controlar criatividade
+- Tokens limitados para controle de contexto
+- Interface Gradio (modelo soft com background clean)
 
 ### Diferenciais
 - Responde em diferentes idiomas sem troca manual
